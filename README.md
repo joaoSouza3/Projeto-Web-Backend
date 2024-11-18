@@ -28,10 +28,10 @@ Liste os pré-requisitos necessários para rodar o backend localmente.
 
 
 ## ENDPOINTS
-| GET    | /posts      | Retorna todos os posts.            |
-| POST   | /posts      | Cria um novo post.                 |
-| GET    | /user       | Retorna todos os usuários.         |
-| POST   | /user       | Cria um novo usuário.              |
+ - GET    | /posts      | Retorna todos os posts.            |
+ - POST   | /posts      | Cria um novo post.                 |
+ - GET    | /user       | Retorna todos os usuários.         |
+ - POST   | /user       | Cria um novo usuário.              |
 
 
 ## Tecnologias
